@@ -9,8 +9,7 @@ On December 9, 2022, which is 10 days after the launch of [ChatGPT](https://open
 1. 做出一些开源模型工具来高效检测 ChatGPT 生成的内容；
 2. 收集一批有价值的人类和 ChatGPT 对比的中英双语问答语料，来助力相关学术研究。
 
-Welcome to follow our project! We have released a preview of our ChatGPT detectors, and the **models, dataset will be open-sourced** in about a week. We look forward to receiving feedback from the community to help improve the models and make contributions to **open** academic research together:)
-
+Welcome to follow our project! We have released a preview of our ChatGPT detectors, and the **models, dataset will be open-sourced** in about a week. We look forward to receiving feedback from the community to help improve the models and make contributions to **open** academic research together:)\
 欢迎关注我们项目，我们目前已经发布ChatGPT检测器预览版，并将于约**一周内发布开源模型、数据集**。期待得到广大群众的反馈，来帮助我们改进模型，为**开放**的学术研究一起做贡献！
 
 ---

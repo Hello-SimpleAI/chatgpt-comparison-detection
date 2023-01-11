@@ -3,6 +3,9 @@
 ![](https://img.shields.io/badge/Languages-%20English%2C%20Chinese-brightgreen) 
 ![](https://img.shields.io/badge/ChatGPT-Corpus%2C%20Detector-blue)
 
+
+<div align=left><img src="https://user-images.githubusercontent.com/37113676/211741353-995330b4-8c84-4b3d-a7ad-9771ae930422.png"></div>
+
 On December 9, 2022, which is 10 days after the launch of [ChatGPT](https://openai.com/blog/chatgpt/), we started this project, for two purposes: 
 1. To create some **open-source models** for efficiently detecting ChatGPT-generated content; 
 2. To collect a valuable **human-ChatGPT comparison Q&A corpus**, to facilitate releated research.

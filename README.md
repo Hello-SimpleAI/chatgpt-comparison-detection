@@ -51,7 +51,9 @@ We are a group of insignificant researchers (in the shadow of ChatGPT) hoping to
 
 |   |   |   |   |
 |---|---|---|---|
+| [Biyang Guo](https://github.com/beyondguo) | [Minqi Jiang](https://github.com/Minqi824) | [Ziyuan Wang](https://github.com/SUFEHeisenberg) | [Xin Zhang](https://github.com/izhx) |
 |<img src="https://avatars.githubusercontent.com/u/37113676?s=64&v=4" alt="" width="30"/>|<img src="https://avatars.githubusercontent.com/u/39890732?s=64&v=4" alt="" width="30"/>|<img src="https://avatars.githubusercontent.com/u/44188955?s=64&v=4" alt="" width="30"/>|<img src="https://avatars.githubusercontent.com/u/26690193?s=64&v=4" alt="" width="30"/>|
+| [Jinran Nie](https://github.com/NJRBarry) | [Yuxuan Ding](https://github.com/yxding95) | [Jianwei Yue](https://github.com/TurquoiseA) | [Yupeng Wu](https://github.com/realRoc) |
 |<img src="https://avatars.githubusercontent.com/u/27188419?s=64&v=4" alt="" width="30"/>|<img src="https://avatars.githubusercontent.com/u/16249556?s=70&v=4" alt="" width="30"/>|  <img src="https://avatars.githubusercontent.com/u/23006855?s=64&v=4" alt="" width="30"/> | <img src="https://avatars.githubusercontent.com/u/44936809?s=64&v=4" alt="" width="30"/>  |
 
 

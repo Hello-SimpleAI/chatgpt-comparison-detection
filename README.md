@@ -1,4 +1,4 @@
-# ChatGPT-Comparison-Detection Porject 🔬
+# ChatGPT-Comparison-Detection Project 🔬
 
 ![](https://img.shields.io/badge/Languages-%20English%2C%20Chinese-brightgreen) 
 ![](https://img.shields.io/badge/ChatGPT-Corpus%2C%20Detector-blue)

@@ -48,3 +48,16 @@ We provide three kinds of detectors, all in Bilingual / 我们提供了三个版
 
 We are a group of insignificant researchers (in the shadow of ChatGPT) hoping to do some significant work for the community. The team for this projects consists of PhD students and engineers from 6 universities/companies.<br>
 我们是一群（在ChatGPT的阴影下）渺小的研究人员，但希望为社区做一些有意义的事。这个项目的团队由来自6所大学/公司的博士生和工程师组成。
+
+|   |   |   |   |
+|---|---|---|---|
+|<img src="https://avatars.githubusercontent.com/u/37113676?s=64&v=4" alt="" width="30"/>|<img src="https://avatars.githubusercontent.com/u/39890732?s=64&v=4" alt="" width="30"/>|<img src="https://avatars.githubusercontent.com/u/44188955?s=64&v=4" alt="" width="30"/>|<img src="https://avatars.githubusercontent.com/u/26690193?s=64&v=4" alt="" width="30"/>|
+|<img src="https://avatars.githubusercontent.com/u/27188419?s=64&v=4" alt="" width="30"/>|<img src="https://avatars.githubusercontent.com/u/16249556?s=70&v=4" alt="" width="30"/>|  <img src="https://avatars.githubusercontent.com/u/23006855?s=64&v=4" alt="" width="30"/> | <img src="https://avatars.githubusercontent.com/u/44936809?s=64&v=4" alt="" width="30"/>  |
+
+
+
+
+
+
+
+

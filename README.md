@@ -2,7 +2,6 @@
 
 ![](https://img.shields.io/badge/Languages-%20English%2C%20Chinese-brightgreen) 
 ![](https://img.shields.io/badge/ChatGPT-Corpus%2C%20Detector-blue)
-![](https://img.shields.io/github/stars/Hello-SimpleAI/chatgpt-comparison-detection?style=social)
 
 On December 9, 2022, which is 10 days after the launch of [ChatGPT](https://openai.com/blog/chatgpt/), we started this project, for two purposes: 
 1. To create some **open-source models** for efficiently detecting ChatGPT-generated content; 

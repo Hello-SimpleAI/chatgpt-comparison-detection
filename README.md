@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/Languages-%20English%2C%20Chinese-brightgreen) 
 ![](https://img.shields.io/badge/ChatGPT-Corpus%2C%20Detector-blue)
 
+([📢 Feedback Space for Detectors](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection/discussions/2) please feel free to leave your feedback here!)
 
 <div align=left><img src="https://user-images.githubusercontent.com/37113676/211741353-995330b4-8c84-4b3d-a7ad-9771ae930422.png"></div>
 

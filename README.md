@@ -5,7 +5,8 @@
 
 ([📢 Feedback Space for Detectors](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection/discussions/2) please feel free to leave your feedback here!)
 
-<div align=left><img src="https://user-images.githubusercontent.com/37113676/211741353-995330b4-8c84-4b3d-a7ad-9771ae930422.png"></div>
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/37113676/212355768-5ef7a26a-7cc5-4c38-91dc-2ee249ec49d5.png">
 
 On December 9, 2022, which is 10 days after the launch of [ChatGPT](https://openai.com/blog/chatgpt/), we started this project, for two purposes: 
 1. To create some **open-source models** for efficiently detecting ChatGPT-generated content; 
@@ -36,7 +37,7 @@ We provide three kinds of detectors, all in Bilingual / 我们提供了三个版
 | Events                | Dates      |
 |-----------------------|------------|
 | Project Launch / 项目启动        | 2022-12-09 ✅ |
-| Comparison Data Collection / 对比数据收集        | 2022-12-11 to Now 🏃‍♀️|
+| Comparison Data Collection / 对比数据收集        | 2022-12-11 to Now 🏎️|
 | Release ChatGPT Detector (Demo) / 检测器 Demo 发布 | 2023-01-11 ✅|
 | Models Release / 模型开源 | Coming in a week 🛬|
 | Comparison Corpus Release / 语料集开源 | Coming in a week 🛬|

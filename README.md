@@ -5,6 +5,8 @@
 
 ([📢 Feedback Space for Detectors](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection/discussions/2) please feel free to leave your feedback here!)
 
+([📢 检测器的反馈论坛](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection/discussions/2) 请留下您宝贵的意见！)
+
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/37113676/212355768-5ef7a26a-7cc5-4c38-91dc-2ee249ec49d5.png">
 

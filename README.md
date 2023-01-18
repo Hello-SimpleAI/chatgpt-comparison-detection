@@ -11,12 +11,19 @@
 ---
 ### Human ChatGPT Comparison Corpus (HC3) / 人类-ChatGPT 问答对比语料集
 Yes, we propose the first **Human vs. ChatGPT** comparison corpus, named **HC3**.
+
+我们提出了第一个 **Human vs. ChatGPT** 对比语料, 叫做 **HC3**.
+
 <img width="520" alt="image" src="https://user-images.githubusercontent.com/37113676/213218672-e92b7036-a602-48c8-b70d-50ee1673bac8.png">
 
 The first version of the HC3 datasets are now available on 🤗 Huggingface Datasets:
 - [HC3-Engllish](https://huggingface.co/datasets/Hello-SimpleAI/HC3)
 - [HC3-Chinese](https://huggingface.co/datasets/Hello-SimpleAI/HC3-Chinese)
 
+
+第一版 HC3 数据集 已经在 ModelScope 可用:
+- [HC3-Engllish](https://www.modelscope.cn/datasets/simpleai/HC3)
+- [HC3-Chinese](https://www.modelscope.cn/datasets/simpleai/HC3-Chinese)
 
 ---
 

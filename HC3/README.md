@@ -10,7 +10,7 @@
 **HC3 (Engllish) @HuggingFace :**\
 https://huggingface.co/datasets/Hello-SimpleAI/HC3
 
-**HC3 (Chinese):**\
+**HC3 (Chinese) @HuggingFace :**\
 https://huggingface.co/datasets/Hello-SimpleAI/HC3-Chinese
 
 **HC3 (英文版) @ModelScope :**\

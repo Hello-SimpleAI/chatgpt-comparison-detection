@@ -19,7 +19,7 @@ Yes, we propose the first **Human vs. ChatGPT** comparison corpus, named **HC3**
 
 <img width="520" alt="image" src="https://user-images.githubusercontent.com/37113676/213218672-e92b7036-a602-48c8-b70d-50ee1673bac8.png">
 
-The first version of the HC3 datasets are now available on 🤗 Huggingface Datasets:
+The first version of the HC3 datasets are now available on 🤗 Hugging Face Datasets:
 - [HC3-Engllish](https://huggingface.co/datasets/Hello-SimpleAI/HC3)
 - [HC3-Chinese](https://huggingface.co/datasets/Hello-SimpleAI/HC3-Chinese)
 

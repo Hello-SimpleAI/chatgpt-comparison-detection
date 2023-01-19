@@ -3,7 +3,9 @@
 ![](https://img.shields.io/badge/Languages-%20English%2C%20Chinese-brightgreen) 
 ![](https://img.shields.io/badge/ChatGPT-Corpus%2C%20Detector-blue)
 
-([📢 Feedback Space for Detectors](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection/discussions/2) please feel free to leave your feedback here! 请留下您宝贵的意见！)
+Official repository of paper ["How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection"](https://arxiv.org/abs/2301.07597). Please star, watch, and fork our repo for the active updates!
+
+See also→([📢 Feedback Space for Detectors](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection/discussions/2) please feel free to leave your feedback here! 请留下您宝贵的意见！)
 
 
 

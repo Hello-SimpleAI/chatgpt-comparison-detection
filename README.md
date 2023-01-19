@@ -30,7 +30,7 @@ The first version of the HC3 datasets are now available on 🤗 Huggingface Data
 
 If the source datasets used in this corpus has a specific license, our products follow the same.
 
-If not, or if the dataset are crawled by ourselves, they follow the apache 2.0 license.
+If not, or if the datasets are crawled by ourselves, they follow the apache 2.0 license.
 
 
 ---

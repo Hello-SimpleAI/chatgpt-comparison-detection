@@ -26,6 +26,13 @@ The first version of the HC3 datasets are now available on 🤗 Huggingface Data
 - [HC3-Engllish](https://www.modelscope.cn/datasets/simpleai/HC3)
 - [HC3-Chinese](https://www.modelscope.cn/datasets/simpleai/HC3-Chinese)
 
+### Dataset Copyright
+
+If the source datasets used in this corpus has a specific license, our products follow the same.
+
+If not, or if the dataset are crawled by ourselves, they follow the apache 2.0 license.
+
+
 ---
 
 ### ChatGPT detectors / 内容检测器
@@ -67,6 +74,28 @@ The Chinese models are based on [hfl/chinese-roberta-wwm-ext](https://huggingfac
 |...|...|
 
 
+
+---
+
+### Citation
+
+Checkout this papaer [arxiv: 2301.07597](https://arxiv.org/abs/2301.07597)
+
+```
+@article{guo-etal-2023-hc3,
+    title = "How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection",
+    author = "Guo, Biyang  and
+      Zhang, Xin  and
+      Wang, Ziyuan  and
+      Jiang, Minqi  and
+      Nie, Jinran  and
+      Ding, Yuxuan  and
+      Yue, Jianwei  and
+      Wu, Yupeng",
+    journal={arXiv preprint arxiv:2301.07597}
+    year = "2023",
+}
+```
 
 
 

@@ -21,3 +21,6 @@ https://www.modelscope.cn/datasets/simpleai/HC3-Chinese
 
 
 <img width="512" alt="image" src="https://user-images.githubusercontent.com/37113676/213214747-f03e15e6-6601-49ff-8c48-ace14f114572.png">
+
+---
+Besides, we provide [DEMO](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection/blob/main/HC3/demo_indicating_words.ipynb) for removing the indicating words in Human or ChatGPT answers, including both English and Chinese corpus.

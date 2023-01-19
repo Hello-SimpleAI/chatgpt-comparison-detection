@@ -48,6 +48,9 @@ The model weights are all available at 🤗 Hugging Face Models:
 |[chatgpt-detector-roberta-chinese](https://huggingface.co/Hello-SimpleAI/chatgpt-detector-roberta-chinese)|检测单条文本，中文版|
 |[chatgpt-qa-detector-roberta-chinese](https://huggingface.co/Hello-SimpleAI/chatgpt-qa-detector-roberta-chinese)|检测一对QA文本，中文版|
 
+The English models are based on [roberta-base](https://huggingface.co/roberta-base).
+The Chinese models are based on [hfl/chinese-roberta-wwm-ext](https://huggingface.co/hfl/chinese-roberta-wwm-ext).
+
 
 ---
 

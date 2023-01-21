@@ -30,9 +30,26 @@ The first version of the HC3 datasets are now available on 🤗 Huggingface Data
 
 ### Dataset Copyright
 
-If the source datasets used in this corpus has a specific license, our products follow the same.
+If the source datasets used in this corpus has a specific license which is stricter than CC-BY-SA, our products follow the same.
+If not, they follow CC-BY-SA license.
 
-If not, or if the datasets are crawled by ourselves, they follow the apache 2.0 license.
+| English Split       | Source | Source License | Note |
+|----------|-------------|--------|-------------|
+| reddit_eli5 | [ELI5](https://github.com/facebookresearch/ELI5)   | BSD License    |     |
+| open_qa  | [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419)  | [PWC Custom](https://paperswithcode.com/datasets/license)   |      |
+| wiki_csai   | Wikipedia | CC-BY-SA |   | [Wiki FAQ](https://en.wikipedia.org/wiki/Wikipedia:FAQ/Copyright) |
+| medicine    | [Medical Dialog](https://github.com/UCSD-AI4H/Medical-Dialogue-System) | Unknown|  [Asking](https://github.com/UCSD-AI4H/Medical-Dialogue-System/issues/10)|
+| finance     | [FiQA](https://paperswithcode.com/dataset/fiqa-1) | Unknown |    |
+
+| Chinese Split       | Source | Source License  | Note |
+|----------|-------------|-----------|-------------|
+| open_qa  | [WebTextQA & BaikeQA](https://github.com/brightmart/nlp_chinese_corpus) | MIT license |  |  |
+| baike       | None   |    |   |
+| nlpcc_dbqa  | [NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA) | Unknown |   [Asking](https://github.com/UCSD-AI4H/Medical-Dialogue-System/issues/10) |
+| medicine    | [Chinese Medical Dialogue](https://tianchi.aliyun.com/dataset/90163) |  CC-BY-NC 4.0 | 
+| finance     |  | CC-BY 4.0 |  |
+| psychology  | [On Baidu AI Studio](https://aistudio.baidu.com/aistudio/datasetdetail/38489) | CC0  | |
+|law          | [LegalQA](https://github.com/siatnlp/LegalQA) | Unknown | [Asking](https://github.com/siatnlp/LegalQA/issues/2) |
 
 
 ---

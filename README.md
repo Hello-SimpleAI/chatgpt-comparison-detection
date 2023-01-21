@@ -44,10 +44,10 @@ If not, they follow CC-BY-SA license.
 | Chinese Split       | Source | Source License  | Note |
 |----------|-------------|-----------|-------------|
 | open_qa  | [WebTextQA & BaikeQA](https://github.com/brightmart/nlp_chinese_corpus) | MIT license |  |  |
-| baike       | None   |    |   |
+| baike     | Baidu Baike  | None   |    |   |
 | nlpcc_dbqa  | [NLPCC-DBQA](https://github.com/msra-nlc/ChineseDBQA) | Unknown |   [Asking](https://github.com/UCSD-AI4H/Medical-Dialogue-System/issues/10) |
 | medicine    | [Chinese Medical Dialogue](https://tianchi.aliyun.com/dataset/90163) |  CC-BY-NC 4.0 | 
-| finance     |  | CC-BY 4.0 |  |
+| finance     | [FinanceZhidao](https://www.heywhale.com/mw/dataset/5e9588f8e7ec38002d0331b1/content) | CC-BY 4.0 |  |
 | psychology  | [On Baidu AI Studio](https://aistudio.baidu.com/aistudio/datasetdetail/38489) | CC0  | |
 |law          | [LegalQA](https://github.com/siatnlp/LegalQA) | Unknown | [Asking](https://github.com/siatnlp/LegalQA/issues/2) |
 

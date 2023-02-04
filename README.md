@@ -98,7 +98,7 @@ The Chinese models are based on [hfl/chinese-roberta-wwm-ext](https://huggingfac
 
 ### Citation
 
-Checkout this papaer [arxiv: 2301.07597](https://arxiv.org/abs/2301.07597)
+Checkout this paper [arxiv: 2301.07597](https://arxiv.org/abs/2301.07597)
 
 ```
 @article{guo-etal-2023-hc3,

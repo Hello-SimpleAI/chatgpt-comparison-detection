@@ -65,6 +65,12 @@ We provide three kinds of detectors, all in Bilingual / 我们提供了三个版
 - [Linguistic version / 语言学版](https://huggingface.co/spaces/Hello-SimpleAI/chatgpt-detector-ling): detect whether a piece of text is ChatGPT generated, using linguistic features / 判断**单条文本**是否由ChatGPT生成，使用基于语言学特征的模型来开发;
 
 
+在 modelscope 中文社区平台，三个版本的检测器也都可用:
+- [QA version / 问答版](https://www.modelscope.cn/studios/simpleai/chatgpt-detector-qa)
+- [Sinlge-text version / 独立文本版](https://www.modelscope.cn/studios/simpleai/chatgpt-detector-single)
+- [Linguistic version / 语言学版](https://www.modelscope.cn/studios/simpleai/chatgpt-detector-ling)
+
+
 The model weights are all available at 🤗 Hugging Face Models:
 
 | Model Checkpoints              | Comment      |

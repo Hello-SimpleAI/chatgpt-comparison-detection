@@ -55,7 +55,7 @@ If not, they follow CC-BY-SA license.
 ---
 
 ### ChatGPT detectors / 内容检测器
-![image](https://user-images.githubusercontent.com/37113676/211677236-d7c028f5-b9a5-4d88-baee-8b86dc942ff7.png)
+[![image](https://user-images.githubusercontent.com/37113676/211677236-d7c028f5-b9a5-4d88-baee-8b86dc942ff7.png)](https://huggingface.co/spaces/Hello-SimpleAI/chatgpt-detector-qa)
 (Hosted on 🤗 Hugging Face Spaces)
 
 

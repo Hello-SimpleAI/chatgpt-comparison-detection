@@ -42,7 +42,7 @@ If not, they follow CC-BY-SA license.
 | open_qa  | [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419)  | [PWC Custom](https://paperswithcode.com/datasets/license)   |      |
 | wiki_csai   | Wikipedia | CC-BY-SA |   | [Wiki FAQ](https://en.wikipedia.org/wiki/Wikipedia:FAQ/Copyright) |
 | medicine    | [Medical Dialog](https://github.com/UCSD-AI4H/Medical-Dialogue-System) | Unknown|  [Asking](https://github.com/UCSD-AI4H/Medical-Dialogue-System/issues/10)|
-| finance     | [FiQA](https://paperswithcode.com/dataset/fiqa-1) | Unknown |    |
+| finance     | [FiQA](https://paperswithcode.com/dataset/fiqa-1) | Unknown |  Asking by 📧  |
 
 | Chinese Split       | Source | Source License  | Note |
 |----------|-------------|-----------|-------------|

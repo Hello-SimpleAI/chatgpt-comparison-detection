@@ -25,7 +25,7 @@ The first version of the HC3 datasets are now available on 🤗 Huggingface Data
 
 
 在中文社区，HC3 数据集也已在 ModelScope 上可用:
-- [HC3-Engllish](https://www.modelscope.cn/datasets/simpleai/HC3)
+- [HC3-English](https://www.modelscope.cn/datasets/simpleai/HC3)
 - [HC3-Chinese](https://www.modelscope.cn/datasets/simpleai/HC3-Chinese)
 
 

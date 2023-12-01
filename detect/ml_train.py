@@ -313,7 +313,7 @@ def main(args: argparse.Namespace, seed=42):
         dataset: Dataset = Dataset.from_json(output_path)  # type: ignore
     else:
         dataset = predict_data(
-            'c3/' + args.input + '_test.csv', output_path, args.test,
+            'hc3/' + args.input + '_test.csv', output_path, args.test,
             device, args.gpt, args.batch_size
         )
     x, y = data_to_xy(dataset)
